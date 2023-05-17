@@ -25,6 +25,9 @@ Users should be able to:
 
 ![](assets/images/screenshot.png)
 
+### Links
+
+- Solution URL: [View Component](https://kailynnelopez.github.io/results-summary-component/)
 
 ## My process
 
