@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Users/kailynnelopez/Desktop/results-summary-component-main/assets/images/Screen Shot 2023-05-16 at 8.37.01 PM.png)
+![](asset/images/screenshot.png)
 
 ## My process
 
