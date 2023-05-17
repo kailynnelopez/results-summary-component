@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](asset/images/screenshot.png)
+![](assets/images/screenshot.png)
+
 
 ## My process
 
